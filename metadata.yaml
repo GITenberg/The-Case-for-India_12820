@@ -1,0 +1,30 @@
+_repo: The-Case-for-India_12820
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Besant, Annie
+    aliases:
+    - Wood, Annie
+    - Besant, Annie Wood
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '2004-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'India -- History -- British occupation, 1765-1947'
+- !lcsh 'India -- Politics and government -- 1765-1947'
+- GITenberg
+title: The Case for India
+url: http://www.gutenberg.org/ebooks/12820
